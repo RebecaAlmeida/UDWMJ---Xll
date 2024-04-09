@@ -1,0 +1,51 @@
+{
+    "Aluno": {
+      "nome": "Rebeca",
+      "idade": 21,
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "RA": 622221041
+    },
+    "Professor": {
+      "nome": "Daniel",
+      "uc": "Usabilidade, desenvolvimento web, mobile e jogos"
+    },
+    "Universidade": {
+      "nome": "UNA Betim",
+      "localização": "Betim"
+    },
+    "Pessoa": {
+      "nome": "Ana",
+      "idade": 18,
+      "parentesco": "irmã"
+    },
+    "Ligação Telefônica": {
+      "duração": "7 minutos",
+      "origem": "Brasil"
+    },
+    "Animal": {
+      "tipo": "Gato",
+      "nome": "Peralta",
+      "idade": 4
+    },
+    "Carro": {
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "ano": 2020
+    },
+    "Endereco": {
+      "rua": "Rua JK",
+      "numero": 838,
+      "cidade": "Mateus Leme",
+      "estado": "Minas Gerais"
+    },
+    "Jogador de Futebol": {
+      "nome": "Pique",
+      "posição": "Zaqueiro",
+      "clube": "Barcelona"
+    },
+    "Cartão de Credito": {
+      "banco": "Inter",
+      "numero": "1020 3040 5060 7080",
+      "validade": "01/42"
+    }
+  }
